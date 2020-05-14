@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: beeniz - scripts & trackers
+! Expires: 1 days
+
+/gemius.js
+/gemius/gemius.js
+/Analytics.js
+/adframe.js
+/subsequent_article_ads_inserter.js
+/fp.rb?$document
+*/analytics.js
+/tracking.js
