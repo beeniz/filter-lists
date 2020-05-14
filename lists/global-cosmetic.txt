@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: beeniz - global - cosmetic
+! Expires: 1 days
+
+##.mn-related-container
+##*>.mn-related-container
+*##body:style(overflow-y:scroll !important)
+www.lolhentai.net##cornergirls
