@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+! Title: beeniz - for the paranoid
+! Expires: 1 days
+
+||static.xx.fbcdn.net^
+||facebook.com^
+||t.co^
+||twitter.com^
+||instagram.com^
+||apple.com^
+||https://scontent-waw1-1.cdninstagram.com^
+||cdninstagram.com^
+||d24rtvkqjwgutp.cloudfront.net^
+||cloudfront.net^
+
+||*^$third-party
