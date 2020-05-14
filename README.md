@@ -9,6 +9,6 @@ The lists *should* support latest versions of UBo and its forks, adguard and oth
 
 <a href="abp:subscribe?location=https://raw.githubusercontent.com/beeniz/filter-lists/master/lists/scripts%26trackers.txt&amp;title=beeniz - scripts and trackers">beeniz - domains</a>
 
-beeniz - for the paranoid
+beeniz - for the paranoid /
 this one breaks a lot of modern websites, so use it only if you are exeperienced enough
 ```https://raw.githubusercontent.com/beeniz/filter-lists/master/lists/paranoid.txt```
