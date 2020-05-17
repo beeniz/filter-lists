@@ -5,7 +5,7 @@ The lists *should* support latest versions of UBo and its forks, adguard and oth
 
 <a href="abp:subscribe?location=https://raw.githubusercontent.com/beeniz/filter-lists/master/lists/global-cosmetic.txt&amp;title=beeniz - global cosmetic">beeniz - global cosmetic</a>
 
-<a href="abp:subscribe?location=https://raw.githubusercontent.com/beeniz/filter-lists/master/lists/scripts%26trackers.txt&amp;title=beeniz - scripts and trackers">beeniz - scripts and trackers</a>
+<a href="abp:subscribe?location=https://github.com/beeniz/filter-lists/blob/master/lists/scripts-trackers.txt&amp;title=beeniz - scripts and trackers">beeniz - scripts and trackers</a>
 
 beeniz - for the paranoid \
 this one breaks a lot of modern websites, so use it only if you are exeperienced enough
