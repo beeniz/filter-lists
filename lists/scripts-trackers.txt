@@ -10,3 +10,4 @@
 /fp.rb?$document
 */analytics.js
 /tracking.js
+/gen_204?$ping
