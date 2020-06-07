@@ -47,3 +47,4 @@
 ||facebook.com^$third-party
 ||tpc.googlesyndication.com^
 ||pixel.facebook.com^
+||inpagepush.com^
